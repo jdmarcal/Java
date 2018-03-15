@@ -1,2 +1,2 @@
 # Java
-Desenvolvimento de programas básicos do tipo console orientados a objetos
+Projetos básicos do tipo console orientados a objetos
